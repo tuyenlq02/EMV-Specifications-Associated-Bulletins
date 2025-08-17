@@ -53,4 +53,8 @@ documents of the Integrated Circuit Card Specifications for Payment Systems
 
 📎 [Download here](https://www.emvco.com/specifications/book-4-cardholder-attendant-and-acquirer-interface-requirements-2/)
 
-📫 I'm best reached via Email. I'm always open to interesting conversations and collaboration.
+
+
+📫 I'm best reached via [Email](mailto:tuyenlq@hotmail.com.vn). I'm always open to interesting conversations and collaboration.
+
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuyen-le-vietnam/)     [![Follow on X](https://img.shields.io/badge/X-Follow-black?logo=twitter&logoColor=white)](https://x.com/quang_tuyen)
